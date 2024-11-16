@@ -13,10 +13,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JnSGoncalves/JnSGoncalves/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">🌐 Social Midia</h3>
 
 ###
@@ -69,6 +65,11 @@
 ###
 <!--
 **JnSGoncalves/JnSGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<img src="https://raw.githubusercontent.com/JnSGoncalves/JnSGoncalves/output/snake.svg" alt="Snake animation" />
+
+###
 
 Here are some ideas to get you started:
 
