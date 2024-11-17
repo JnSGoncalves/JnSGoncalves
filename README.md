@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">Hi, my name is Jônatas Gonçalves, i'm 19 years old and living in São Bernardo do Campo, SP.<br>I am studying Computer Science to become a software developer</p>
+<p align="center">Hi, my name is Jônatas Gonçalves, i'm 19 years old and living in São Bernardo do Campo, SP.<br>I am studying Computer Science to become a back end developer</p>
 
 ###
 
